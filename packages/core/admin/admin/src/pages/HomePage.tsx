@@ -350,7 +350,7 @@ const HomePageCE = () => {
                 }}
                 size="L"
               >
-                إدارة وظيفة جديدة
+                إدارة الوظائف
               </Button>
               <Button
                 onClick={() => navigate('/content-manager/collection-types/api::category.category')}
@@ -361,7 +361,7 @@ const HomePageCE = () => {
                 }}
                 size="L"
               >
-                إدارة مناقصة جديدة
+                إدارة المناقصات
               </Button>
               <Button
                 style={{
